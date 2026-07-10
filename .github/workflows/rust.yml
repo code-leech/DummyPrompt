@@ -7,7 +7,7 @@ on:
   workflow_dispatch: {}
 
 env:
-  BIN_NAME: dummyshell
+  BIN_NAME: dummy_shell
 
 jobs:
   build:
